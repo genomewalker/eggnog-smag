@@ -1,6 +1,7 @@
 # Ignore everything in this directory
-*
+/*
 # Except this file
 !.gitignore
+!eggnog-db/
 !eggnog-db/eggnog-funcat.tsv
 !eggnog-db/emapper-v2.taxmap.tsv
